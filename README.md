@@ -38,7 +38,7 @@
 ### Passo a Passo
 ```bash
 # Clone o repositório
-git clone https://github.com/kassiods/faturamento/
+git clone https://github.com/kassiods/faturamento.git
 
 # Instale as dependências
 npm install
